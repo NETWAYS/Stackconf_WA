@@ -90,7 +90,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/atix\/en\/foreman\/"
+                 "value":"https:\/\/atix.de\/en\/foreman\/"
                 }],
          "type":"tilelayer",
          "visible":true,
