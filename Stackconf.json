@@ -157,7 +157,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/www.youtube.com\/watch?v=k7YOvCZmX0U"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -264,7 +264,7 @@
  "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.7.0",
  "tileheight":32,
  "tilesets":[
         {
